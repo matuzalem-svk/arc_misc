@@ -775,3 +775,12 @@ STHud_Settings_RemoveDeadViaProximity = true;
 STHud_Settings_SquadBar = true;
 STHud_Settings_TextShadow = 1;
 STHud_Settings_UnconsciousFadeEnabled = true;
+
+// TMF
+force TMF_chat_healUsage = 0;
+force TMF_chat_loadoutUsage = 0;
+force TMF_chat_radioUsage = 0;
+force TMF_chat_rpUsage = 0;
+force TMF_chat_specUsage = 0;
+force TMF_chat_tpUsage = 0;
+force TMF_chat_whisperUsage = 0;
